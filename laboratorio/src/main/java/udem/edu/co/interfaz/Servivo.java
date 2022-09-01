@@ -8,9 +8,7 @@ package udem.edu.co.interfaz;
  *
  * @author julio
  */
-public interface Vehiculo {
-    public int tipoVehiculo();
-    
-    
+public interface Servivo {
+    public int tipoServivo();
     
 }
